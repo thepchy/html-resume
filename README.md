@@ -1,4 +1,4 @@
-# 🌟 Capstone Project 1: HTML Resume
+# 🌟 Capstone Project 1 : HTML Resume
 Welcome to my very first capstone project as I begin my journey into the world of tech! 👩🏻‍💻✨
 
 💼 My first online resume built with basic HTML. Part of my Capstone Project 1, showcasing my career shift into tech and my journey as a future developer.
